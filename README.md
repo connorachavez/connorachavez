@@ -1,4 +1,4 @@
-## Connor Chavez ReadMe 
+## Connor Chavez 
 
 Mathematics graduate from the University of Pennsylvania and M.S. Business Analytics student at William & Mary with a strong interest in quantitative finance, algorithmic trading, and data-driven decision making
 
