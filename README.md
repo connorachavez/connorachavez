@@ -32,7 +32,7 @@ Expected May 2025
 ## Relevant Experience
 
 - Quant Trading Intern, Options Theory Intensive at Chicago Trading Company
-- Tyson Foods International Finance Intern
+- International Finance Intern at Tyson Foods
 - Physics Lab Assistant
 
 ## Technical Skills
